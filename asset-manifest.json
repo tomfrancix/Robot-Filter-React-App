@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robot-Filter-React-App/static/css/main.26882071.chunk.css",
+    "main.js": "/Robot-Filter-React-App/static/js/main.6a7d3e23.chunk.js",
+    "main.js.map": "/Robot-Filter-React-App/static/js/main.6a7d3e23.chunk.js.map",
+    "runtime-main.js": "/Robot-Filter-React-App/static/js/runtime-main.100a097e.js",
+    "runtime-main.js.map": "/Robot-Filter-React-App/static/js/runtime-main.100a097e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Robot-Filter-React-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8fa0d876.chunk.js": "/Robot-Filter-React-App/static/js/2.8fa0d876.chunk.js",
+    "static/js/2.8fa0d876.chunk.js.map": "/Robot-Filter-React-App/static/js/2.8fa0d876.chunk.js.map",
+    "index.html": "/Robot-Filter-React-App/index.html",
+    "precache-manifest.b0bc7f54fae753ae976b918783b1c5b9.js": "/Robot-Filter-React-App/precache-manifest.b0bc7f54fae753ae976b918783b1c5b9.js",
+    "service-worker.js": "/Robot-Filter-React-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Robot-Filter-React-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.26882071.chunk.css.map": "/Robot-Filter-React-App/static/css/main.26882071.chunk.css.map",
+    "static/js/2.8fa0d876.chunk.js.LICENSE.txt": "/Robot-Filter-React-App/static/js/2.8fa0d876.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.100a097e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8fa0d876.chunk.js",
+    "static/css/main.26882071.chunk.css",
+    "static/js/main.6a7d3e23.chunk.js"
+  ]
+}
